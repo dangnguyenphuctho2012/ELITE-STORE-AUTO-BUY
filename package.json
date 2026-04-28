@@ -1,0 +1,13 @@
+{
+  "name": "elite-store-bot",
+  "version": "1.0.0",
+  "description": "Bot Auto Buy cho Discord",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
+
